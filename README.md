@@ -4,6 +4,4 @@ It is a fully responsive personal portfolio website, responsive for all devices,
 
 ## Demo
 
-![vCard Desktop Demo](c:\Users\BHAVA\OneDrive\Desktop\portfolio\personal-portfolio\website-demo-image\demo.jpg "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
